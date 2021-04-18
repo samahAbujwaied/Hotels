@@ -41,7 +41,7 @@ article section p{
 }
 footer p{
   text-align: center;
-<<<<<<< HEAD
+
 }
 
 .a {
@@ -65,6 +65,8 @@ footer p{
 .d {
   background-color: goldenrod;
 }
-=======
+
+.e {
+  margin: 30px;
+  padding: 80px;
 }
->>>>>>> 58f43d68de3c054b31b7aa5dceed5723a35d3bf4
